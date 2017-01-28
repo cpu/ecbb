@@ -7,7 +7,7 @@ Bzzzt. I eat images and spit them out AES-128-ECB encrypted.
 :warning: :zap: **DANGER DANGER** Make sure to [never use ECB mode
 yourself](http://crypto.stackexchange.com/questions/20941/why-shouldnt-i-use-ecb-encryption)! **DANGER DANGER** :zap: :warning:
 
-![ECB Garfield](https://github.com/cpu/ecbb/raw/initial/data/cc-garf.ecb.png)
+![ECB Garfield](https://github.com/cpu/ecbb/blob/master/data/cc-garf.ecb.png)
 
 ## Setup
 
